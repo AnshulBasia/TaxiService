@@ -3,3 +3,5 @@ An app based program to find shortest path between two locations and to provide 
 
 This started as an assignment of Data structure course. I wish to improve it using implementation of Dijsktra with fibonacci heaps which will 
 further reduce the coplexity of algorithm.
+
+For details: refer Description.pdf
